@@ -29,7 +29,7 @@
 | --- | --- | --- |
 | [CI/CD](https://github.com/Karleenr/Simple_CI-CD) | Разработка простого CI/CD для учебного проекта. Сборка, тестирование, развертывание | YAML |
 | [Docker](https://github.com/Karleenr/Simple_Docker) | Разработка простого образа docker для собственного сервера. | Docker, nginx, C|
-| [BrickGame](https://github.com/Karleenr/BrickGame) | Игра змейка/тетрис на С/С++ в парадигме объектно-ориентированного программирования | C++, Qt, MVC |
+| [BrickGame](https://github.com/Karleenr/BrickGame) | Игра змейка/тетрис на С/С++ в парадигме объектно-ориентированного программирования | C/C++, Qt, MVC, ncurses |
 | [NetworkLinux](https://github.com/Karleenr/Linux_Network) | Конфигурация, настройка, соедниение сетей Linux на виртуальных машинах. | Bash, VM |
 | [3D Viewer](https://github.com/Karleenr/3DViewer_CPP) | Разработка программы для визуализации 3D каркасных моделей. | С++, Qt, MVC |
 
