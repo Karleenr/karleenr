@@ -25,7 +25,7 @@
 
 | Название                                                              | Описание                                                                                               | Инструменты          |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------- |
-| [CI/CD](https://github.com/Karleenr/Simple_CI-CD)                   | Разработка простого CI/CD для учебного проекта. Автоматизация сборки, тестирования и развертывания.   | YAML                 |
+| [CI/CD](https://github.com/Karleenr/Simple_CI-CD)                   | Разработка простого CI/CD для учебного проекта. Автоматизация сборки, тестирования и развертывания.   | YAML, gitlab-runner, Linux, openssh-server             |
 | [Docker](https://github.com/Karleenr/Simple_Docker)                 | Создание Docker-образа для собственного сервера.                                                     | Docker, nginx, C     |
 | [NetworkLinux](https://github.com/Karleenr/Linux_Network)             | Настройка и конфигурирование сетей Linux на виртуальных машинах.                                    | Bash, VM, Linux      |
 | [BrickGame](https://github.com/Karleenr/BrickGame)                   | Игра змейка/тетрис на C/C++ в парадигме ООП.                                                          | C/C++, Qt, MVC, ncurses |
