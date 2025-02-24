@@ -27,7 +27,7 @@
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------- |
 | [CI/CD](https://github.com/Karleenr/Simple_CI-CD)                     | Разработка простого CI/CD для учебного проекта. Автоматизация сборки, тестирования и развертывания.    | YAML, gitlab-runner, Linux, openssh-server |
 | [Docker](https://github.com/Karleenr/Simple_Docker)                   | Создание Docker-образа для собственного сервера.                                                       | Docker, nginx, C     |
-| [Linux Monitoring](https://github.com/Karleenr/Linux-Monitoring)      | Базовые скрипты bash для Linux и системное исследование.                                               | Bash, VM, Linux, openssh-server |
+| [Linux Monitoring](https://github.com/Karleenr/Linux-Monitoring)      | Написание базовых скрипты bash для Linux и системное исследование.                                     | Bash, VM, Linux, openssh-server |
 | [NetworkLinux](https://github.com/Karleenr/Linux_Network)             | Настройка и конфигурирование сетей Linux на виртуальных машинах.                                       | Bash, VM, Linux      |
 | [BrickGame](https://github.com/Karleenr/BrickGame)                    | Игра змейка/тетрис на C/C++ в парадигме ООП.                                                           | C/C++, Qt, MVC, ncurses |
 | [3D Viewer](https://github.com/Karleenr/3DViewer_CPP)                 | Программа для визуализации 3D каркасных моделей.                                                       | C++, Qt, MVC |
