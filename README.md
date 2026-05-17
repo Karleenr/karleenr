@@ -5,9 +5,9 @@
 Я - DevOps инженер с большим интересом к автоматизации и оптимизации процессов разработки и развертывания. Увлекаюсь созданием надежных и масштабируемых инфраструктур. Сейчас я студент, активно изучаю новые технологии и применяю их в своих проектах.
 
 ## Навыки
-*   👨‍💻**DevOps & Инфраструктура:** Docker, CI/CD, Bash, Shell, Git, Linux, Network
+*   👨‍💻**DevOps & Инфраструктура:** Docker docker-compose, k8s, Jenkins, gitlab CI, ArgoCD, Bash, Shell, Linux, Network, Grafana + Prometheus
 *   🖥️**Базы данных:** PostgreSQL
-*   🤖**Языки программирования:** C/C++
+*   🤖**Языки программирования:** C/C++, Python
 *   🗄**GUI & Build Tools:** GTK, Qt, Makefile
 
 ## Образование
@@ -31,10 +31,6 @@
 | [NetworkLinux](https://github.com/Karleenr/Linux_Network)             | Настройка и конфигурирование сетей Linux на виртуальных машинах.                                       | Bash, VM, Linux      |
 | [BrickGame](https://github.com/Karleenr/BrickGame)                    | Игра змейка/тетрис на C/C++ в парадигме ООП.                                                           | C/C++, Qt, MVC, ncurses |
 | [3D Viewer](https://github.com/Karleenr/3DViewer_CPP)                 | Программа для визуализации 3D каркасных моделей.                                                       | C++, Qt, MVC |
-
-## Планы на будущее
-
-*   Углубленное изучение Kubernetes и оркестрации контейнеров.
-*   Разработка собственных инструментов автоматизации.
-*   Участие в Open Source проектах.
+| [Task-Management-API](https://github.com/Karleenr/Task-Management-API)| REST API для управления задачами на FastAPI с PostgreSQL, Redis, централизованным сбором логов.        |PostgreSQL, Redis, Grafana, Docker + Docker Compose, Loki|
+| [T3_DevOps](https://github.com/Karleenr/T3_DevOps)                    | Bash-скрипт для мониторинга процесса "test" в среде Linux с интеграцией systemd.                       | Bash, shell, cron, systemd|
 
